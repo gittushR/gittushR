@@ -3,7 +3,7 @@
 <h3 align="center">Thanks for visiting my github profile</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Development+using+React%2C+TailwindCSS%2C+ShadCN+%E2%81%95;Backend+Development+using+Spring+Boot%2C+Express%2FNode.js%E2%9A%99%EF%B8%8F;Strong+in+Data+Structures+%26+Core+CS+subjects+%F0%9F%93%9A;Docker%2C+AWS+Orchestration+%F0%9F%90%B3;Passionate+about+neat+UIs+and+System+design+%F0%9F%A4%A9;DSA+%2B+Competetive+Programming+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Learning+Numpy+and+Pandas+%F0%9F%A7%91%E2%80%8D%F0%9F%8F%AB;Maths+%26+Finance+enthusiast+%F0%9F%92%B8" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&width=435&lines=Frontend+Development+with+React+TailwindCSS+%F0%9F%96%A5%EF%B8%8F;Backend+using+Spring+Boot%2C+Express%2FNode.js+%E2%9A%99%EF%B8%8F;Strong+in+Data+Structures+%26+Core+CS+%F0%9F%93%9A;Docker%2C+AWS+Orchestration+%F0%9F%90%B3;Passionate+about+neat+UIs+And+System+design+%F0%9F%A4%A9;DSA+%2B+Competetive+Programming+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Learning+Numpy+and+Pandas+%F0%9F%A7%91%E2%80%8D%F0%9F%8F%AB;Maths+%26+Finance+enthusiast+%F0%9F%92%B8" alt="Typing SVG" /></a>
 </p>
 
 ---
